@@ -3,6 +3,16 @@ body
     color:deeppink;
     text-align: center;
     font-family: "Arial";
+    font-size:16px;
+    margin: O;
+    padding: 0;
+}
+#container{
+     width: 70;
+    padding:lem;
+    margin: 0 auto;
+}
+#container h1{
 
-
+    font-size: 20px;
 }
